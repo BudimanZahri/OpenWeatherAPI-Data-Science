@@ -27,7 +27,7 @@ This Python project retrieves and analyzes weather data from various cities usin
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/weather-data-analysis.git
+    git clone https://github.com/BudimanZahri/OpenWeatherAPI-Data-Science.git
     ```
 2. Install the required libraries:
     ```bash
